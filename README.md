@@ -23,14 +23,7 @@ This is the primary classifier for V3-V4 amplicon sequencing using the 341F/806R
 
 - **Fit Classifier Evaluation**: `silva-138.2-ssu-nr99-341f-806r-taxonomy-fit-classifier-evaluation.qzv`
 
-  - Cross-validation performance metrics
-  - Accuracy, precision, recall, and F1-scores by taxonomic level
-  - Confusion matrices and classification reports
-
 - **Taxonomy Evaluation**: `silva-138.2-ssu-nr99-341f-806r-taxonomy-evaluation.qzv`
-  - Comparison between reference and predicted taxonomies
-  - Taxonomic composition statistics
-  - Quality assessment metrics
 
 ## SILVA 138.2 Classifier Training Protocol
 
